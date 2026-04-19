@@ -6,6 +6,6 @@ The dashboards included dynamic filters and slicers that allowed users to explor
 Based on the insights, I also provided practical business recommendations such as improving marketing strategies in low-performing regions, reducing order cancellations, promoting underperforming products, and enhancing customer experience in areas with lower review scores.
 Overall, this project enhanced my skills in data visualization, data analysis, and dashboard design using Power BI, and demonstrated how data-driven insights can support better decision-making and improve business performance.
 
-PROJECT PDF FILE:https://drive.google.com/file/d/1A4xG-Txe8tV-w9Pjv7T3vOCnFt269Aqc/view?usp=sharing
+PROJECT PDF FILE: https://drive.google.com/file/d/1A4xG-Txe8tV-w9Pjv7T3vOCnFt269Aqc/view?usp=sharing
 
-PROJECT PBIX FILE:https://drive.google.com/file/d/1fIvEZRjNdQhaeZHfh7Um9PmA6lcy5bO9/view?usp=sharing 
+PROJECT PBIX FILE: https://drive.google.com/file/d/1fIvEZRjNdQhaeZHfh7Um9PmA6lcy5bO9/view?usp=sharing 
